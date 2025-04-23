@@ -1,5 +1,5 @@
 
-# CTFSpace
+# CTFSpace (On Working... please stay)
 
 CTFSpace is a command-line tool designed to simplify the creation and management of CTF (Capture The Flag) folders and projects. It allows users to easily organize ongoing, upcoming, and archived CTFs, create default folder structures, and sync writeups efficiently.
 
@@ -117,28 +117,8 @@ CTFSpace is a command-line tool designed to simplify the creation and management
 10. **Configuration Setup**: 
     - Under the `Setup` folder, there is a configuration file where users can specify their virtual Python environment or use the default `idkCTF-Venv/bin/activate`.
 
-## Installation
-
-To install `ctfspace`, clone the repository and install the necessary dependencies:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ctfspace.git
-   ```
-
-2. Navigate into the project directory:
-   ```bash
-   cd ctfspace
-   ```
-
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
-
-After installation, you can use `ctfspace` to manage your CTF challenges.
 
 ### Create a New Ongoing CTF
 
